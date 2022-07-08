@@ -1,0 +1,1 @@
+execute if entity @s[tag=gbfurniture.marker] run function gbfurniture_block:marker_main

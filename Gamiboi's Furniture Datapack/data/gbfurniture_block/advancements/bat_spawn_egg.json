@@ -1,0 +1,15 @@
+{
+    "criteria": {
+        "c1": {
+            "trigger": "minecraft:item_used_on_block",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:bat_spawn_egg"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "gbfurniture_block:test"
+    }
+}

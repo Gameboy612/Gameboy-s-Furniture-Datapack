@@ -1,0 +1,1 @@
+execute if entity @s[tag=gbfurniture.display] run function gbfurniture_block:item_frame_main

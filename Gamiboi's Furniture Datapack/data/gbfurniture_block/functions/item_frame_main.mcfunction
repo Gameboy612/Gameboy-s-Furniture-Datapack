@@ -1,0 +1,1 @@
+execute if block ~ ~ ~ #minecraft:all_air run function gbfurniture_block:item_frame_main/remove

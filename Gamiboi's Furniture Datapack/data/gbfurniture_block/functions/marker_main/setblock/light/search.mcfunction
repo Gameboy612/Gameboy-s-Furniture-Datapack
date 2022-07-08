@@ -1,0 +1,2 @@
+execute if score #light GBT.temp matches 0..7 run function gbfurniture_block:marker_main/setblock/light/0_7/search
+execute if score #light GBT.temp matches 8..15 run function gbfurniture_block:marker_main/setblock/light/8_15/search
