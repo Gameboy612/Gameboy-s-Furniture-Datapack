@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:item/template_spawn_egg",
+  "overrides": [
+      {"predicate": {"custom_model_data":100001}, "model": "furniture/classic/globe/globe_copper"},
+      {"predicate": {"custom_model_data":100002}, "model": "furniture/classic/globe/globe_gold"},
+      {"predicate": {"custom_model_data":100003}, "model": "furniture/classic/globe/globe_oxidized_copper"}
+  ]
+}
